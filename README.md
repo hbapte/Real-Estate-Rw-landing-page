@@ -1,1 +1,1 @@
-This is our landing page
+Accessed via https://real-estate-rw-landing-page.vercel.app/
